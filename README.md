@@ -3,4 +3,4 @@ Website for artist or tattooist containing Gallery, Store, and Calendar for book
 Built with pure HTML, styling and Navigation done with Bootstrap
 
 ![Alt Text](StoreScreenshot.jpg)
-![Alt Text](GalleryScreenShot.jpg)
+![Alt Text](GalleryScreenshot.jpg)
